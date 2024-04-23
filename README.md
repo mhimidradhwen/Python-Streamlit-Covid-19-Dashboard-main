@@ -22,7 +22,4 @@ Open the root folder of the project and run the command below:
 streamlit run main.py
 ```
 
-#### Dashboard Example: 
-Click [Here](https://share.streamlit.io/ronald55/python-streamlit-covid-19-dashboard/main/main.py) to view the demo
 
-![Dashboard](components/img/image.png "Covid 19 Dashboard")
